@@ -247,6 +247,6 @@ Please note: This list is updated monthly to incorporate new events and to provi
 | Thailand AI Supercloud Convention 2024 | [Link](https://aisupercloud.events/events/thailand-ai-supercloud-convention-2024/) | Nov 2024 | 13-14 | Centara Grand | Bangkok | Onsite | Cloud Computing |
 | Tech & AI LIVE New York | [Link](https://live.technologymagazine.com/tech-ai-newyork-2024/) | Nov 2024 | 14 | NEW YORK | USA | Virtual | Technology |
 | NexTech Week TOKYO 2024 [Autumn] | [Link](https://www.nextech-week.jp/hub/en-gb.html) | Nov 2024 | 20 | Tokyo | Japan  | Onsite | Technology, Innovation |
-| Global AI Show - December 2024 | [Link]((https://www.globalaishow.com/)) | Dec 2024 | 11-12 | Dubai | UAE  | Onsite | AI, Innovation |
+| Global AI Show - December 2024 | [[https://www.globalaishow.com/)](https://www.globalaishow.com/) | Dec 2024 | 11-12 | Dubai | UAE  | Onsite | AI, Innovation |
 | B2B Service Management Strategy Summit 2024 | [Link](https://10times.com/b-b-service-management) | Dec 2024 | 20-24 | Berlin  | Germany | Onsite | Service Management, Business Strategy |
 | FT Live: Future of AI | [Link](https://ai.live.ft.com/) | Dec 2024 | 3-4 | London | United Kingdom | Hybrid | GenAI, AGI |
